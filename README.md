@@ -1,2 +1,2 @@
-# HuangYongJin_notes
-Last update 10.13
+# HuangYongJin_Notes
+## Now focusing on back end
