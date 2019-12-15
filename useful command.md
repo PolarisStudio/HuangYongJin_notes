@@ -4,8 +4,12 @@
 + leafpad
 ## vim
 + `i` insert model
-+ `esc wq` save and exit
-+ `esc q!` exit without save
++ `:wq` save and exit
++ `:q!` exit without save
++ `dd` delete current line
++ `hjkl` move cursor
++ `u` undo
++ `x` delete one text
 # npm
 + `npm -i xxx -s`
 # cd
