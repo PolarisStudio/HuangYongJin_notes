@@ -2,6 +2,9 @@
 # Linux
 + touch newfile.md
 + leafpad
++ tree
++ tmux  mutiple windows
++ ctrl+r 搜索最近命令
 ## vim
 + `i` insert model
 + `:wq` save and exit
