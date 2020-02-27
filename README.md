@@ -1,2 +1,2 @@
-# HuangYongJin_Notes
-## Now focusing on back end
+# Learning Notes
+## No focusing
