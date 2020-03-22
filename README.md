@@ -6,6 +6,7 @@
     + [3.1 Python spider & The Missing Semester by MIT](2020/3-1.md)
     + [3.8 CSAPP](2020/3-8.md)    
     + [3.15 Leetcode](2020/3-15.md) 
+    + [3.22 Leetcode & Google Kick Start](2020/3-22.md)
 + [2019](./2019)
     + [10.6](2019/10.6.md)
     + [10.13 Nodejs grammar](2019/10.13.md)
