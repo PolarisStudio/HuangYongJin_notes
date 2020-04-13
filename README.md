@@ -9,6 +9,7 @@
     + [3.22 Leetcode & Google Kick Start](2020/3-22.md)
     + [3.29 Leetcode](2020/3-29.md)
     + [4.5 python unpacking & Leetcode](2020/4-5.md)
+    + [4.12 LRU & LFU](2020/4-12.md)
 + [2019](./2019)
     + [10.6](2019/10.6.md)
     + [10.13 Nodejs grammar](2019/10.13.md)
