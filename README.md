@@ -11,6 +11,7 @@
     + [4.5 python unpacking & Leetcode](2020/4-5.md)
     + [4.12 LRU & LFU](2020/4-12.md)
     + [4.19 Leetcode & Google Codejam](2020/4-19.md)
+    + [5.3 Huawei Competition](2020/4-26.md)
 + [2019](./2019)
     + [10.6](2019/10.6.md)
     + [10.13 Nodejs grammar](2019/10.13.md)
