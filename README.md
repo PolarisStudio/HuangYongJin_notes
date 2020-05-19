@@ -13,6 +13,7 @@
     + [4.19 Leetcode & Google Codejam](2020/4-19.md)
     + [5.3 Huawei Competition & Leetcode](2020/4-26.md)
     + [5.10 Leetcode](2020/5-10.md)
+    + [5.17 CART & Huawei Competition](2020/5-17.md)
 + [2019](./2019)
     + [10.6](2019/10.6.md)
     + [10.13 Nodejs grammar](2019/10.13.md)
